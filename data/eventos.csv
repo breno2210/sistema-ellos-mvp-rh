@@ -1,0 +1,7 @@
+Id_evento,Id_funcionario,Data,Tipo_evento,Atraso_minutos,Mes
+1,1,2024-01-03,Presente,0,1
+2,2,2024-01-03,Falta,0,1
+3,3,2024-01-03,Atraso,12,1
+4,4,2024-01-03,Presente,0,1
+5,1,2024-01-04,Atraso,5,1
+6,5,2024-01-04,Falta,0,1

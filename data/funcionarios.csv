@@ -1,0 +1,6 @@
+Id_funcionario,Nome,Cargo,Departamento,Unidade,Status,Salario,Data_admissao
+1,João Silva,Atendente,Atendimento,Unidade 1,Ativo,2200,2022-03-10
+2,Maria Souza,Recepcionista,Recepção,Unidade 2,Ativo,2100,2021-07-22
+3,Pedro Alves,Atendente,Atendimento,Unidade 3,Ativo,2200,2023-01-15
+4,Ana Martins,Gerente,Gerência,Unidade 1,Ativo,3500,2020-11-01
+5,Carlos Pereira,Atendente,Atendimento,Unidade 2,Ativo,2200,2022-08-05
