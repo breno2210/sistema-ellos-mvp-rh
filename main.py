@@ -36,6 +36,14 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("Sistema MVP • Ellos")
 
 # ===========================
+# INDICADOR DE NAVEGAÇÃO (UX)
+# ===========================
+st.markdown("---")
+st.markdown(f"### 📍 Página atual: **{menu}**")
+st.markdown("---")
+
+
+# ===========================
 # DASHBOARD
 # ===========================
 if menu == "📊 Dashboard":
